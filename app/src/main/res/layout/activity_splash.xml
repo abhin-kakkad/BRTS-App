@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/icon"
+    android:layout_gravity="center"
+    >
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="50dp"
+        android:gravity="center"
+        android:layout_marginBottom="200dp"
+        android:textColor="#986588"/>
+
+</LinearLayout>

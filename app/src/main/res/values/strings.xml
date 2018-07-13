@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">BRTS App</string>
+    <string-array name="sub_name">
+        <item>
+        <item>RTO to Maninagar \n</item>
+            <item>(29 stations)</item>
+            </item>
+
+        <item>
+        <item>Anjali to Naroda \n</item>
+            <item>(32 stations)</item>
+            </item>
+
+        <item>
+        <item>RTO to Naroda \n</item>
+            <item>(50 stations)</item>
+            </item>
+
+        <item>
+        <item>RTO to Delhi Darwaja \n</item>
+            <item>(8 stations)</item>
+            </item>
+
+        <item>
+        <item>Iskon to Maninagar \n</item>
+            <item>(21 stations)</item>
+            </item>
+
+        <item>
+        <item>Soni ni Chali to Odhav \n</item>
+            <item>(9 stations)</item>
+            </item>
+
+        <item>
+        <item>Delhi Darwaja to Science City \n</item>
+            <item>(17 stations)</item>
+            </item>
+
+        <item>
+        <item>Visat to Maninagar \n</item>
+            <item>(35 stations)</item>
+            </item>
+
+        <item>
+        <item>RTO to Town Hall \n</item>
+            <item>(17 stations)</item>
+            </item>
+
+        <item>
+        <item>Anjali to Kalupur Railway Station \n</item>
+            <item>(10 stations)</item>
+            </item>
+
+        <item>
+        <item>Maninagar to Bopal \n</item>
+            <item>(29 stations)</item>
+            </item>
+
+    </string-array>
+
+    <string-array name="RTO_to_Naroda">
+        <item>RTO Circle</item>
+
+        <item>Ranip</item>
+        <item>Bhavsar Hostel</item>
+        <item>Akhbarnagar</item>
+        <item>Pragatinagar</item>
+        <item>Shastrinagar</item>
+        <item>Jaymangal</item>
+        <item>Sola Cross Roads</item>
+        <item>Valinath Chowk</item>
+        <item>Memnagar</item>
+        <item>(Gujarat) University</item>
+        <item>Andhjan Mandal (IIM)</item>
+        <item>Himmatlal Park</item>
+        <item>Shivranjani</item>
+        <item>Jhansi Ki Rani</item>
+        <item>Nehrunagar</item>
+        <item>Manekbaug</item>
+        <item>Dharnidhar Derasar</item>
+        <item>Anjali (Vasna)</item>
+        <item>Chandranagar</item>
+        <item>Khodiyarnagar</item>
+        <item>Danilimda Cross Roads</item>
+        <item>Danilimda Road</item>
+        <item>Chhipa Society</item>
+        <item>Chandola Lake</item>
+        <item>BRTS Workshop</item>
+        <item>Kashiram Textiles</item>
+        <item>Narol</item>
+        <item>Mukesh Industries</item>
+        <item>Isanpur</item>
+        <item>Ghodasar</item>
+        <item>Jashodanagar Cross Roads</item>
+        <item>(Ahmedabad-Vadodara) Express Highway Junction</item>
+        <item>CTM Cross Roads</item>
+        <item>Purvdeep Society</item>
+        <item>Jogeshwari Society</item>
+        <item>Rabari Colony</item>
+        <item>Ramrajya Nagar</item>
+        <item>Rameshwar Park</item>
+        <item>Geeta Gauri Cinema</item>
+        <item>Soni Ni Chali</item>
+        <item>Viratnagar</item>
+        <item>Bapunagar Approach</item>
+        <item>Lilanagar</item>
+        <item>Thakkarnagar Approach</item>
+        <item>Hiravadi</item>
+        <item>Vijay Park</item>
+        <item>Krishna Nagar</item>
+        <item>Dhanush Dhari Mandir</item>
+        <item>Naroda</item>
+
+    </string-array>
+    <string-array name="rto_delhidarwaja">
+        <item>RTO Circle</item>
+        <item>Ranip</item>
+        <item>N.R. Patel Park</item>
+        <item>Ramapir No Tekro</item>
+        <item>Juna Vadaj</item>
+        <item>Gurudwara</item>
+        <item>Hanumanpura</item>
+        <item>Sarkari Litho Press (Delhi Darwaja)</item>
+
+    </string-array>
+</resources>
+
+
+
